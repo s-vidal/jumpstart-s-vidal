@@ -1,0 +1,23 @@
+/* .title-div {
+  height: ;
+} */
+
+.categories-div {
+  min-height: 800px;
+}
+
+.align-text-center {
+  text-align: center;
+}
+
+.text-header {
+  font-size: 75px;
+}
+
+.flex-wrap {
+  flex-wrap: wrap;
+}
+
+.bg-red {
+  background-color: red;
+}

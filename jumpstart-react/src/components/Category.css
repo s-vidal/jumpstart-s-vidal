@@ -1,0 +1,76 @@
+.category-div {
+  background-color: white;
+  width: 70vw;
+  height: 200px;
+  border-radius: 30px;
+}
+
+.align-text-center {
+  text-align: center;
+}
+
+.hover-btn:hover {
+  transform: translate(5px, 5px);
+  transition-duration: 5s;
+  z-index: 1;
+}
+
+.hover-btn:hover {
+  outline: 0;
+}
+
+button:focus {
+  outline: none;
+}
+
+.bg-yoga {
+  background-color: rgb(70, 135, 240, 0.4);
+}
+
+.bg-hiking {
+  background-color: rgb(115, 240, 70, 0.4);
+}
+
+.bg-2 {
+  background-color: rgb(148, 104, 62, 0.4);
+}
+
+.bg-3 {
+  background-color: rgb(240, 240, 89, 0.3);
+}
+
+.bg-4 {
+  background-color: rgb(151, 93, 245, 0.3);
+}
+
+.bg-5 {
+  background-color: rgb(242, 97, 97, 0.3);
+}
+
+.bg-6 {
+  background-color: rgb(92, 47, 39, 0.3);
+}
+
+.bg-7 {
+  background-color: rgb(39, 81, 92, 0.3);
+}
+
+.bg-8 {
+  background-color: rgb(240, 174, 113, 0.3);
+}
+
+.bg-9 {
+  background-color: rgb(161, 113, 69, 0.3);
+}
+
+.bg-10 {
+  background-color: rgb(67, 150, 161, 0.3);
+}
+
+.bg-11 {
+  background-color: rgb(78, 67, 161, 0.3);
+}
+
+.bg-12 {
+  background-image: url("");
+}

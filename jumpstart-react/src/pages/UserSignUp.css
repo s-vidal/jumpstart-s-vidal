@@ -1,0 +1,71 @@
+.signUpContainer {
+    width: 100%;
+    height: 100px;
+    background-color: rgb(137, 161, 238);
+}
+
+.formContainer{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding-top: 20px;
+}
+
+.loginBox{
+
+    width: 400px;
+    height: 61px;
+    margin-top: 50px;
+    margin-left: 40px;
+    background-color: inherit;
+  
+    border: 1px solid rgb(191, 195, 233);
+    box-sizing: border-box;
+    border-radius: 6px; 
+    font-size: 16px;
+    padding-left: 20px;
+    color: black;
+  }
+
+  .nextButton {
+    width: 15%;
+    height: auto;
+    margin-top: 20px;
+    margin-left: 815px;
+    color: #364c64 !important;
+    font-size: 15px !important;
+    font-weight: 700 !important;
+    font-style: bold !important;
+    background-color: rgb(214, 165, 73) !important;
+    border: none !important;
+  }
+  
+  .nextButton:hover {
+    background-color: rgb(179, 136, 57) !important;
+    border: solid 1px rgb(214, 165, 73) !important;
+    transition: ease-in ;
+  }
+
+
+
+  .phaseBar {
+      width: 500px;
+      height: 50px;
+      margin-left: 60%;
+      margin-top: 50px;
+      display: flex;
+  }
+
+  .phaseButton{
+      width: 100px;
+      height: 50px;
+      border: solid 1px black;
+      background-color: grey;
+  }
+
+  
+
+
+
+
+  

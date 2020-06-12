@@ -1,0 +1,12 @@
+.align-text-center {
+  text-align: center;
+}
+
+.input-rounded {
+  border-radius: 10px;
+  height: 150px;
+}
+
+.form-width {
+  width: 220px;
+}

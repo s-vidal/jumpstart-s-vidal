@@ -1,0 +1,16 @@
+.filter-cat {
+}
+
+.filter-div {
+  border: 1px solid black;
+  background: white;
+}
+
+/* .btn-width {
+  width: 100%;
+} */
+
+.input-height {
+  min-height: 55px;
+  border-radius: 20px;
+}
